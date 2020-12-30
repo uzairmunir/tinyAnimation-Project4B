@@ -1,6 +1,7 @@
 import React from 'react'
 import {data} from './data'
 import Cards from'./Cards'
+import Slide from 'react-reveal/Slide';
 
 
 const Services = () => {
@@ -8,7 +9,9 @@ const Services = () => {
     return (
         <div className="container-fluid">
         <div className='text-center mt-5'>
-           <h1>Our Services</h1>
+        <Slide top cascade>
+          <h1>Services</h1>
+        </Slide>
            </div>
            <div className="row">
                <div className="col-10  mx-auto">

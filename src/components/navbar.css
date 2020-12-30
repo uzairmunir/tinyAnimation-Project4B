@@ -2,7 +2,7 @@
 .navbar{
     background-color:white !important;
 }
-.navbar-brand{
+.navbar-brand >h1{
     font-size: 50px !important;
     color: rgb(87, 191, 240) !important;
     font-family: 'Baloo 2', cursive;
