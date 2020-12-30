@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+
+h1,h2{
+    font-family: 'Roboto', sans-serif;
+    color: black !important;
+}
+.brand-name{
+    color: rgb(62, 154, 207);
+}
+h2{
+    font-size: 25px;
+}
+#btn{
+    padding: 15px !important;
+    border-radius: 10px;
+    background-color: transparent;
+    color: turquoise !important;
+    border: 1px solid turquoise !important ;
+}
+#btn:hover{
+    background-color: rgb(142, 226, 218);
+    color: wheat !important;
+}

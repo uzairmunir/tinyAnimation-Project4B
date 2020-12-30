@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@500&display=swap');
+.navbar{
+    background-color:white !important;
+}
+.navbar-brand{
+    font-size: 50px !important;
+    color: rgb(87, 191, 240) !important;
+    font-family: 'Baloo 2', cursive;
+}
+nav-link{
+    font-size: 20px;
+    color: black !important;
+}
+.nav-link:hover{
+    color: cadetblue !important;
+    font-weight: bold !important;
+    border-bottom:1px solid rgba(78, 78, 76, 0.739);
+}
